@@ -38,7 +38,7 @@ Here are some of the technologies I work with:
 
 I'm currently learning about the following areas:
 
-- **Machine Learning** with **Python** 🤖
+- **DSA** using **Python** 🤖
 
 ---
 
