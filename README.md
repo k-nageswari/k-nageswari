@@ -38,7 +38,7 @@ Here are some of the technologies I work with:
 
 I'm currently learning about the following areas:
 
-- **DSA** using **Python** 🤖
+- **DSA** using **Python**
 
 ---
 
