@@ -9,7 +9,7 @@ Hi there! I'm **Nageswari Kotapati**
 
 
 ---
-### 💻 My Profiles
+### 💻 My Coding Profiles
 
 - [**GeeksforGeeks**](https://www.geeksforgeeks.org/user/nageswari_k/)
 - [**LeetCode**](https://leetcode.com/u/naawg00/)
@@ -19,8 +19,6 @@ Hi there! I'm **Nageswari Kotapati**
 ---
 
 ## 🌱 Currently Learning
-
-I'm currently learning about the following areas:
 
 - **DSA** using **Python**
 
